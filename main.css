@@ -1,0 +1,28 @@
+:root {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    align-content: space-between;
+}
+
+.side-panel {
+    margin: 10px;
+}
+
+.logo {
+    font-family: "Norse", Verdana Tahoma, sans-serif;
+}
+
+label{
+    display:flex;
+    color: red;
+}
+
+input {
+    border-radius: 5px;
+}
